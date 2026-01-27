@@ -1,4 +1,3 @@
 # PracticaGit
-Hola, que tal
-bgyvyjv
-oihbug
+Alvaro Contreras silva
+1º DAW
